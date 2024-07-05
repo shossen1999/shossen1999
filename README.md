@@ -3,14 +3,13 @@
 
 
 <h3 align="left">👩‍💻 About Me</h3>
-<h3 align="left">👩‍💻 About Me</h3>
-<p align="left">
-- Front-End Development: 🌐 Skilled in HTML, CSS, JavaScript, and Tailwind CSS to create responsive, visually appealing web applications.<br>
-- React.js Expertise: ⚛️ Proficient in building dynamic UIs using React.js, including hooks and state management.<br>
-- Back-End Development: 🖥️ Experienced with Node.js and Express.js for developing server-side applications and RESTful APIs.<br>
-- Database Management: 📊 Proficient in MongoDB and MySQL for efficient database design and data manipulation.<br>
-- Collaborative Workflow: 🤝 Skilled in using Git and GitHub for version control, with strong problem-solving skills in agile environments.
-</p>
+<ul align="left">
+  <li>Front-End Development: 🌐 Skilled in HTML, CSS, JavaScript, and Tailwind CSS to create responsive, visually appealing web applications.</li>
+  <li>React.js Expertise: ⚛️ Proficient in building dynamic UIs using React.js, including hooks and state management.</li>
+  <li>Back-End Development: 🖥️ Experienced with Node.js and Express.js for developing server-side applications and RESTful APIs.</li>
+  <li>Database Management: 📊 Proficient in MongoDB and MySQL for efficient database design and data manipulation.</li>
+  <li>Collaborative Workflow: 🤝 Skilled in using Git and GitHub for version control, with strong problem-solving skills in agile environments.</li>
+</ul>
 
 - 🌱 I’m currently learning **MongoDB,React,Node.JS,Express.JS**
 
