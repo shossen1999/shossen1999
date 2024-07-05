@@ -3,8 +3,9 @@
 
 
 <h3 align="left">👩‍💻 About Me</h3>
+<h3 align="left">👩‍💻 About Me</h3>
 <p align="left">
--Front-End Development: 🌐 Skilled in HTML, CSS, JavaScript, and Tailwind CSS to create responsive, visually appealing web applications.<br>
+- Front-End Development: 🌐 Skilled in HTML, CSS, JavaScript, and Tailwind CSS to create responsive, visually appealing web applications.<br>
 - React.js Expertise: ⚛️ Proficient in building dynamic UIs using React.js, including hooks and state management.<br>
 - Back-End Development: 🖥️ Experienced with Node.js and Express.js for developing server-side applications and RESTful APIs.<br>
 - Database Management: 📊 Proficient in MongoDB and MySQL for efficient database design and data manipulation.<br>
