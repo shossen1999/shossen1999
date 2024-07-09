@@ -1,6 +1,6 @@
 ![logo](https://github.com/shossen1999/shossen1999/blob/main/banner.gif)
 <h1 align="center">Hi 👋, I'm Soheb Hossen</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">Welcome to my GitHub profile! I'm a passionate web developer with a love for creating dynamic and responsive websites. I enjoy working with both front-end and back-end technologies to build full-stack applications.</h3>
 
 
 
