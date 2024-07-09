@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Soheb Hossen</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-<img src="[https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif](https://i.ibb.co/8rLjNCc/github-banner.png)" alt="Banner" style="width:100%; height:auto;"/>
+<img src="https://i.ibb.co/8rLjNCc/github-banner.png" alt="Banner" style="width:100%; height:auto;"/>
+
 <h3 align="left">👩‍💻 About Me</h3>
 <ul align="left">
   <li>Front-End Development: 🌐 Skilled in HTML, CSS, JavaScript, and Tailwind CSS to create responsive, visually appealing web applications.</li>
@@ -11,14 +12,13 @@
   <li>Collaborative Workflow: 🤝 Skilled in using Git and GitHub for version control, with strong problem-solving skills in agile environments.</li>
 </ul>
 
-- 🌱 I’m currently learning **MongoDB,React,Node.JS,Express.JS**
+- 🌱 I’m currently learning **MongoDB, React, Node.JS, Express.JS**
 
 - 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **shossen1999@gmail.com**
 
 - ⚡ Fun fact **I am Funny**
-
 
 <h3 align="left">Tech Stack</h3>
 <p align="left">
@@ -44,8 +44,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shossen1999&label=Profile%20views&color=0e75b6&style=flat" alt="shossen1999" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shossen1999" alt="shossen1999" /></a> </p>
-
-
 
 <h3 align="left">Current States</h3>
 
