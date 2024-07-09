@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Soheb Hossen</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-<img src="https://i.ibb.co/8rLjNCc/github-banner.png" alt="Banner" style="width:100%; height:auto;"/>
+<img src="https://i.ibb.co/vYR2yzw/modified-github-banner-1.png" alt="Banner" style="width:100%; height:auto;"/>
 
 <h3 align="left">👩‍💻 About Me</h3>
 <ul align="left">
