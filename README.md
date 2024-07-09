@@ -1,7 +1,8 @@
+![logo](https://github.com/shossen1999/shossen1999/blob/main/banner.gif)
 <h1 align="center">Hi 👋, I'm Soheb Hossen</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-<img src="https://i.ibb.co/vYR2yzw/modified-github-banner-1.png" alt="Banner" style="width:100%; height:auto;"/>
+
 
 <h3 align="left">👩‍💻 About Me</h3>
 <ul align="left">
