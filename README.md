@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Soheb Hossen</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Banner" style="width:100%; height:auto;"/>
+<img src="[https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif](https://i.ibb.co/8rLjNCc/github-banner.png)" alt="Banner" style="width:100%; height:auto;"/>
 <h3 align="left">👩‍💻 About Me</h3>
 <ul align="left">
   <li>Front-End Development: 🌐 Skilled in HTML, CSS, JavaScript, and Tailwind CSS to create responsive, visually appealing web applications.</li>
